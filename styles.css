@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .quiz-container {
+    width: 400px;
+    text-align: center;
+  }
+  
+  .question-container {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .answer-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .next-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
